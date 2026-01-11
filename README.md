@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Golang/PHP developer.
+I'm Golang developer.
 
 💬 Telegram [@VladislavBerezovskiy](https://t.me/VladislavBerezovskiy)  
 💬 Linkedin [VladislavBerezovskiy](https://www.linkedin.com/in/vladislav-berezovskiy-3bb0bb193/)  
